@@ -1,0 +1,23 @@
+.avatar-container {
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+  margin: 0px 5px 5px 5px; 
+}
+.info-container {
+
+  display: inline-block;
+  width: 500px;
+}
+.avatar-image {
+  border-radius: 50px;
+  width: 100%;
+  vertical-align: top;
+}
+
+.name {
+  margin: 0px 0px 5px 0px;
+}
+.description {
+  margin: 2px 0px 0px 0px;
+}
